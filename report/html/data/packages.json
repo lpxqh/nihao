@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "C:\\Users\\lenovo\\Downloads\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[xiaoming]",
+      "uid" : "8e4e08781132930c",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560743711547,
+        "stop" : 1560743728870,
+        "duration" : 17323
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\lenovo\\Downloads\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[123]",
+      "uid" : "83ef8f0cec5bdde8",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560743728914,
+        "stop" : 1560743747773,
+        "duration" : 18859
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\lenovo\\Downloads\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[hello]",
+      "uid" : "32453882af65e085",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560743747775,
+        "stop" : 1560743766804,
+        "duration" : 19029
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8083a48773cbfbc2897cb0336273acc5"
+  } ]
+}

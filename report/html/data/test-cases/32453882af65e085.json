@@ -1,0 +1,85 @@
+{
+  "uid" : "32453882af65e085",
+  "name" : "C:\\Users\\lenovo\\Downloads\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[hello]",
+  "fullName" : "scripts.C:\\Users\\lenovo\\Downloads\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[hello]",
+  "historyId" : "cc39469cf9634fd5bc0f6c3a1d6431c0",
+  "time" : {
+    "start" : 1560743747775,
+    "stop" : 1560743766804,
+    "duration" : 19029
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输⼊⽂字",
+      "time" : {
+        "start" : 1560743757076,
+        "stop" : 1560743765905,
+        "duration" : 8829
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-A4Q0H0IH"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "16992-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\lenovo\\Downloads\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[hello]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32453882af65e085.json",
+  "parameterValues" : [ ]
+}
